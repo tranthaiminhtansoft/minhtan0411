@@ -8,7 +8,8 @@ THÔNG TIN LIÊN HỆ
 
 MỤC TIÊU NGHỀ NGHIỆP
 - Được làm việc trong môi trường ổn định, phấn đấu tham gia vào các dự án nhỏ và lớn.
-Gắn bó lâu dài và thăng tiến tại công ty.
+Gắn bó lâu dài và thăng tiến tại công ty. Nỗ lực tìm hiểu và học hỏi các công nghệ mới
+để áp dụng vào những dự án phù hợp.
 
 KỸ NĂNG
 - Chăm chỉ làm việc nhóm
