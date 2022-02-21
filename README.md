@@ -12,17 +12,18 @@ Gắn bó lâu dài và thăng tiến tại công ty. Nỗ lực tìm hiểu và
 để áp dụng vào những dự án phù hợp.
 
 KỸ NĂNG
-- Chăm chỉ làm việc nhóm
-- Lắng nghe tốt những đóng góp, ý kiến của người khác
-- Thành thạo ngôn ngữ lập trình Java
-- Sử dụng tốt Framework Spring Boot
-- Database thường dùng là MySQL, SQL Server
-- Chuyên dùng Tools: Intellij IDEA, Workbench, SQL Management Studio, Github, Trello
+- Chăm chỉ làm việc nhóm.
+- Lắng nghe tốt những đóng góp, ý kiến của người khác.
+- Thành thạo ngôn ngữ lập trình Java.
+- Sử dụng tốt Framework Spring Boot.
+- Database thường dùng là MySQL, SQL Server.
+- Tools chuyên dùng Intellij IDEA, Workbench, SQL Management Studio, Github, Trello.
 
 TRÌNH ĐỘ HỌC VẤN
 
 - Trường Đại học Công Nghiệp TP.HCM
 - Khoa Công nghệ thông tin
+- Chuyên ngành Kỹ thuật phần mềm
 - Xếp loại: 
 - Điểm trung bình: 
 
